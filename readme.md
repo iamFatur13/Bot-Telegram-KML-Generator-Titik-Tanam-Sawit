@@ -38,3 +38,10 @@ Cukup kirimkan pesan ke Bot dengan format berikut::
 
 ```text
 Jarak Tanam | Buffer | No. Titik Acuan | Daftar Koordinat  
+
+```
+
+Contoh
+```text
+8x9 | 3 | 2 | lat-long 1;lat-long 2;lat-long 3;lat-long 4
+```
