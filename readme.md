@@ -34,7 +34,7 @@ Sebelumnya, alat ini dikembangkan dalam versi **Python (Shapely & SimpleKML)**. 
 
 ## 📝 Cara Penggunaan
 
-Cukup kirimkan pesan ke Bot dengan format berikut:
+Cukup kirimkan pesan ke Bot dengan format berikut::
 
 ```text
-Jarak Tanam | Buffer | No. Titik Acuan | Daftar Koordinat 
+Jarak Tanam | Buffer | No. Titik Acuan | Daftar Koordinat  
